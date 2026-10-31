@@ -1,0 +1,9 @@
+dieraa-scrapbook/
+│
+├── index.html
+├── style.css
+├── script.js
+│
+└── flashback/
+    ├── telegram.jpeg
+    └── instagram.jpeg
